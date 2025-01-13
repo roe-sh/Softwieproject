@@ -3,6 +3,7 @@
 This is a project consisting of a **React frontend** and a **Node.js backend**. Follow the instructions below to set up and run both parts of the application.
 
 ---
+```
 project-name/
 ├── backend/
 │   ├── src/
@@ -30,7 +31,7 @@ project-name/
 └── deployment-scripts/
     └── setup.sh
 
-
+```
 ## Table of Contents
 
 1. [Requirements](#requirements)
