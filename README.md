@@ -3,6 +3,33 @@
 This is a project consisting of a **React frontend** and a **Node.js backend**. Follow the instructions below to set up and run both parts of the application.
 
 ---
+project-name/
+├── backend/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── server.js
+│   ├── node_modules/
+│   ├── .env.example
+│   ├── package.json
+│   └── README.md
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── public/
+│   ├── node_modules/
+│   ├── .env.example
+│   ├── package.json
+│   └── README.md
+├── .env.example
+├── README.md
+└── deployment-scripts/
+    └── setup.sh
+
 
 ## Table of Contents
 
